@@ -1,0 +1,5 @@
+Goal: Parse Youtube Favorites, fetch all video titles, search for song in spotify, and generate playlist
+
+1. Initialize a virtual environment 
+2. Connect to Youtube API
+3. Connect to Spotify API
