@@ -3,3 +3,12 @@ Goal: Parse Youtube Favorites, fetch all video titles, search for song in spotif
 1. Initialize a virtual environment 
 2. Connect to Youtube API
 3. Connect to Spotify API
+
+
+
+
+2nd Project
+-Fetch user data through spotify API
+-Manipulate/Clean data
+-Store in mysql database
+-Create visualization in tableau from mysql
